@@ -44,15 +44,8 @@
 <a href="https://discord.gg/dMXEmsn5"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="https://steamcommunity.com/profiles/76561199225603822"><img src="https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=steam&logoColor=white" /></a>
 
----
-
-### 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?noescape4x=noescape4x&show_icons=true&theme=tokyonight" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?noescape4xe&theme=tokyonight" width="45%"/>
-</p>
 
 ---
 
-⭐ **If you like my work, consider giving a star to my projects!** 😊✨  
+⭐ **If you like my work, consider giving a star to my projects and follow!** 😊✨  
  
