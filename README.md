@@ -13,11 +13,11 @@
 ---
 
 ### 🌟 **About Me**
-- 🎓 I’m a **[Your Profession]** passionate about **Web Development, AI, and Open Source.**
-- 💻 I love working with **Flask, Python, JavaScript, and SQL**.
-- 🚀 I’m currently building **Flask Auth Admin** and exploring **Machine Learning.**
+- 🎓 I’m a **[Student in high school]** 
+- 🌍 I’m from **algeria**
+- 🚀 I’m currently trying **to build my own videogame** .
 - 🌍 I speak **Arabic, English, and French.**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **bilel.tech2**
 
 ---
 
@@ -30,19 +30,19 @@
 
 ### 📌 **Featured Projects**
 💡 Check out my latest projects:
-- 🔐 [Flask Auth Admin](https://github.com/your-username/flask-auth-admin) - User authentication system with admin panel.  
-- 🌍 [Project 2](https://github.com/your-username/project2) - Short description here.  
-- ⚡ [Project 3](https://github.com/your-username/project3) - Short description here.  
+- 🔐 [flask-user-manager](https://github.com/noescape4x/flask-user-manager) - User authentication system with admin panel.  
+- 🌍 [spotmini-widget](https://github.com/noescape4x/spotmini-widget) - Short description here.  
+- ⚡ [Arduino-TFT-Spotify-Player](https://github.com/noescape4x/Arduino-TFT-Spotify-Player) - Short description here.  
 
 📂 Explore all my projects [here](https://github.com/your-username?tab=repositories).
 
 ---
 
 ### 🎮 **Connect with Me**
-<a href="https://instagram.com/your-instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://reddit.com/user/your-reddit"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
-<a href="https://discord.gg/your-discord-server"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="https://steamcommunity.com/id/your-steam-id"><img src="https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=steam&logoColor=white" /></a>
+<a href="https://www.instagram.com/noescape4x/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.reddit.com/u/Noescape4x"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
+<a href="https://discord.gg/dMXEmsn5"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://steamcommunity.com/profiles/76561199225603822"><img src="https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=steam&logoColor=white" /></a>
 
 ---
 
