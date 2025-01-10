@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hi, I'm [bil :)]!</h1>
 
 <p align="center">
-  <img src="https://github.com/your-username/your-username/raw/main/banner.gif" alt="Your Banner" width="100%">
+  <img src="https://github.com/noescape4x/noescape4x/raw/main/banner.gif" alt="Your Banner" width="100%">
 </p>
 
 <p align="center">
   <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/github/followers/your-username?label=Follow&style=social" />
+    <img src="https://img.shields.io/github/followers/noescape4x?label=Follow&style=social" />
   </a>
 </p>
 
@@ -34,7 +34,7 @@
 - 🌍 [spotmini-widget](https://github.com/noescape4x/spotmini-widget) - floating Spotify Now Playing widget for Windows.  
 - ⚡ [Arduino-TFT-Spotify-Player](https://github.com/noescape4x/Arduino-TFT-Spotify-Player) - display the currently playing song from Spotify on a TFT LCD.  
 
-📂 Explore all my projects [here](https://github.com/your-username?tab=repositories).
+📂 Explore all my projects [here](https://github.com/noescape4x?tab=repositories).
 
 ---
 
