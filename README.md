@@ -13,17 +13,17 @@
 ---
 
 ### 🌟 **About Me**
-- 🎓 I’m a **[Student in high school]** 
+- 🎓 I’m a **Student in high school**
+- 🎂 **17yo** 
 - 🌍 I’m from **algeria**
-- 🚀 I’m currently trying **to build my own videogame** .
 - 🌍 I speak **Arabic, English, and French.**
-- 📫 How to reach me: **bilel.tech2**
+- ✈️ I am just learning programming to make money and fly to Japan.
 
 ---
 
 ### 🔥 **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,sqlite,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode" />
 </p>
 
 ---
