@@ -48,5 +48,5 @@
 
 ---
 
-⭐ **If you like my work, consider giving a star to my projects and follow!** 😊✨  
+⭐ **If you like my work, consider giving a star to my projects and follow!** ⭐ 
  
