@@ -13,6 +13,7 @@
 ---
 
 ### 🌟 **About Me**
+- 🔥 Pronouns: **He/Him**
 - 🎓 I’m a **Student in high school**
 - 🎂 **17yo** 
 - 🌍 I’m from **algeria**
