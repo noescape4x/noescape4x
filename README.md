@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm [Your Name]!</h1>
+<h1 align="center">👋 Hi, I'm [bil :)]!</h1>
 
 <p align="center">
   <img src="https://github.com/your-username/your-username/raw/main/banner.gif" alt="Your Banner" width="100%">
@@ -31,8 +31,8 @@
 ### 📌 **Featured Projects**
 💡 Check out my latest projects:
 - 🔐 [flask-user-manager](https://github.com/noescape4x/flask-user-manager) - User authentication system with admin panel.  
-- 🌍 [spotmini-widget](https://github.com/noescape4x/spotmini-widget) - Short description here.  
-- ⚡ [Arduino-TFT-Spotify-Player](https://github.com/noescape4x/Arduino-TFT-Spotify-Player) - Short description here.  
+- 🌍 [spotmini-widget](https://github.com/noescape4x/spotmini-widget) - floating Spotify Now Playing widget for Windows.  
+- ⚡ [Arduino-TFT-Spotify-Player](https://github.com/noescape4x/Arduino-TFT-Spotify-Player) - display the currently playing song from Spotify on a TFT LCD.  
 
 📂 Explore all my projects [here](https://github.com/your-username?tab=repositories).
 
@@ -48,8 +48,8 @@
 
 ### 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?noescape4x=noescape4x&show_icons=true&theme=tokyonight" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?noescape4xe&theme=tokyonight" width="45%"/>
 </p>
 
 ---
