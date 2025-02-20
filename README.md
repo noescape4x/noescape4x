@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm [bil :)]!</h1>
+<h1 align="center">👋 Hi</h1>
 
 <p align="center">
   <img src="https://github.com/noescape4x/noescape4x/raw/main/banner.gif" alt="Your Banner" width="100%">
