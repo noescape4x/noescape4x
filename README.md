@@ -16,24 +16,10 @@
 - 🏷️ Pronouns: **He/Him**
 - 🎓 I’m a **Student in high school**
 - 🎂 **17yo** 
-- 🌍 I’m from **algeria**
-- 🌍 I speak **Arabic, English, and French.**
-- ✈️ I am just learning programming to make money and fly to Japan.
+
 
 ---
 
-### 🔥 **Tech Stack**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode" />
-</p>
-
----
-
-### 📌 **Featured Projects**
-💡 Check out my latest projects:
-- 🔐 [flask-user-manager](https://github.com/noescape4x/flask-user-manager) - User authentication system with admin panel.  
-- 🌍 [spotmini-widget](https://github.com/noescape4x/spotmini-widget) - floating Spotify Now Playing widget for Windows.  
-- ⚡ [Arduino-TFT-Spotify-Player](https://github.com/noescape4x/Arduino-TFT-Spotify-Player) - display the currently playing song from Spotify on a TFT LCD.  
 
 📂 Explore all my projects [here](https://github.com/noescape4x?tab=repositories).
 
